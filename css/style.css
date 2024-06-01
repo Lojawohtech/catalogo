@@ -2,7 +2,6 @@
   padding: 0;
   margin: 0;
   box-sizing: border-box;
-
 }
 
 body {
@@ -16,19 +15,19 @@ header {
   justify-content: center;
   align-items: center;
   padding: 10px 0;
-  background-color: #161616; /* Altere conforme necessário */
+  background-color: #161616;
 }
 
 .logo-container {
   width: 100%;
-  max-width: 150px; /* Altere conforme necessário */
+  max-width: 150px;
   padding: 0 20px;
 }
 
 .logo {
   width: 100%;
-  height: auto;
-  display: block;
+ 
+
 }
 .container {
   position: relative;
